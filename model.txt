@@ -5,3 +5,4 @@ feature2-1
 feature1-2
 feature2-2
 release1-1
+release1-2
