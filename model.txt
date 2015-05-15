@@ -7,3 +7,4 @@ feature2-2
 release1-1
 release1-2
 master2
+hotfix1
